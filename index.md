@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Chenyu PEI ( [裴晨宇](https://caihanlin.com/file/裴晨宇简历.pdf))**.
+Here is **Chenyu PEI ( [裴晨宇](https://nathaneilknight.github.io/file/裴晨宇简历.pdf))**.
 
-I am a junior majoring in **Bioscience** at Zhejiang University. I am extremely fortunate to be advised by [Prof. Pan Li](https://person.zju.edu.cn/lipan).Here is [my Resume](https://caihanlin.com/file/Resume-ChenyuPEI.pdf).
+I am a junior majoring in **Bioscience** at Zhejiang University. I am extremely fortunate to be advised by [Prof. Pan Li](https://person.zju.edu.cn/lipan).Here is [my Resume](https://nathaneilknight.github.io/file/Resume-ChenyuPEI.pdf).
 
 <br>
 
