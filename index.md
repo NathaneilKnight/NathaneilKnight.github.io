@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://nathaneilknight.github.io/chenyu_casual" class="floatpic" >
+<img src="https://nathaneilknight.github.io/chenyu_casual.jpg" class="floatpic" >
 
 Here is **Chenyu PEI ( [裴晨宇](https://nathaneilknight.github.io/file/裴晨宇简历.pdf))**.
 
