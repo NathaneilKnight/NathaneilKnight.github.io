@@ -8,7 +8,7 @@ title: Hobbies
 
 ## Chorus
 
-<div class="third">
+
 <img src="/images/chorus1.jpg">
 <img src="/images/chorus2.jpg">
 <img src="/images/chorus3.jpg">
