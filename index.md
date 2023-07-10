@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://nathaneilknight.github.io/chenyu_casual.jpg" class="floatpic" >
 
-Here is **Chenyu PEI ( [裴晨宇](https://nathaneilknight.github.io/file/裴晨宇简历.pdf))**.
+Here is **Chenyu PEI ( [裴晨宇](https://nathaneilknight.github.io/file/Resume-ChenyuPEI.pdf))**.
 
 I am a junior majoring in **Bioscience** at Zhejiang University. I am extremely fortunate to be advised by [Prof. Pan Li](https://person.zju.edu.cn/lipan).Here is [my CV](https://nathaneilknight.github.io/file/Resume-ChenyuPEI.pdf).
 
@@ -14,7 +14,7 @@ I am a junior majoring in **Bioscience** at Zhejiang University. I am extremely 
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me!**
 
 - **Sep 2020 - Present:** Zhejiang University (Undergraduate)
 
