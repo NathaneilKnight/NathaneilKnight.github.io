@@ -8,7 +8,7 @@ layout: page
 
 Here is **Chenyu PEI ( [裴晨宇](https://nathaneilknight.github.io/file/裴晨宇简历.pdf))**.
 
-I am a junior majoring in **Bioscience** at Zhejiang University. I am extremely fortunate to be advised by [Prof. Pan Li](https://person.zju.edu.cn/lipan).Here is [my Resume](https://nathaneilknight.github.io/file/Resume-ChenyuPEI.pdf).
+I am a junior majoring in **Bioscience** at Zhejiang University. I am extremely fortunate to be advised by [Prof. Pan Li](https://person.zju.edu.cn/lipan).Here is [my CV](https://nathaneilknight.github.io/file/Resume-ChenyuPEI.pdf).
 
 <br>
 
