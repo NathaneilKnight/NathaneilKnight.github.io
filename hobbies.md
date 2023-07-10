@@ -8,10 +8,11 @@ title: Hobbies
 
 ## Chorus
 
-
+<div class="second">
 <img src="/images/chorus1.jpg">
 <img src="/images/chorus2.jpg">
 <img src="/images/chorus3.jpg">
+
 </div>
 <br>There must be **something truly magical** about standing on stage to give [a fantastic chorus performance], which considerably lifts my spirits and energizes my entire body.I am a member of the Wenqin Choir and Lingyun Choir at Zhejiang University, where I meet many sincere friends. 
 
