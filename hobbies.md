@@ -24,8 +24,8 @@ title: Hobbies
 
 <div class="second">
 <img src="/images/piano1.jpg">
-<img src="/images/piano2.jpg">
-#<img src="/images/surfing1.JPG">
+<img src="/images/Piano2.jpg">
+
 </div>
 <br>Piano removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the sound of piano. 
 
