@@ -25,12 +25,12 @@ I am a junior majoring in **Bioscience** at Zhejiang University. I am extremely 
 
 ## Research Interests
 
-- **Phylogenetics**
-- Muti-omics
-- Gene editing
-- Bioinfomatics
+- Phylogenetics
+- **Neuroscience**
+- Mental disorder
+- Neural circuits of adaptive behaviors
 
-My current research focuses on the evolution of Commelinaceae and its phylogenetic relationship based on the transciptome data. My research interests are on the **Bioinfomatics** and its application in human health. In a word, Bioinfomatics positively influence the life of everybody.  Although there is a little gap between my current research and my interests, I've got a good command of the basic knowledge and skills needed for future research. I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on the evolution of Commelinaceae and its phylogenetic relationship based on the transciptome data. My research interests are on the **Neuroscience** and its application in human health. In a word, Neuroscience positively influence the life of everybody.  Although there is a little gap between my current research and my interests, I've got a good command of the basic knowledge and skills needed for future research. I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 <br>
 
